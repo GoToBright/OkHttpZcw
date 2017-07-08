@@ -5,10 +5,10 @@ import android.util.Log;
 import com.zcw.okhttp.BuildConfig;
 
 /**
- * Created by 朱城委 on 2017/6/16.<br /><br />
+ * Created by 朱城委 on 2017/6/16.<br><br>
  *
- * Log函数有2个重载方法,x(string)和x(string, string)。<br />
- * 一个参数的方法，可定位并跳转到log所在的代码行位置;<br />
+ * Log函数有2个重载方法,x(string)和x(string, string)。<br>
+ * 一个参数的方法，可定位并跳转到log所在的代码行位置;<br>
  * 二个参数的方法，只会在debug模式显示log，release模式会自动屏蔽。
  */
 

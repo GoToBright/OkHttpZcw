@@ -6,7 +6,7 @@ import android.os.Looper;
 import java.util.concurrent.Executor;
 
 /**
- * Created by 朱城委 on 2017/6/23.<br /><br />
+ * Created by 朱城委 on 2017/6/23.<br><br>
  */
 
 public class Platform {

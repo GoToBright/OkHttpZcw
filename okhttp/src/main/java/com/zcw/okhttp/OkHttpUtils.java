@@ -12,7 +12,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by 朱城委 on 2017/6/22.<br /><br />
+ * Created by 朱城委 on 2017/6/22.<br><br>
  */
 
 public class OkHttpUtils {

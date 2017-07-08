@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by 朱城委 on 2017/7/6.<br /><br />
+ * Created by 朱城委 on 2017/7/6.<br><br>
  * 常量类
  */
 
